@@ -1,4 +1,6 @@
-	<head>
+<!DOCTYPE html>
+<html>
+	 <head>
 		<tittle> </title>
 		<style>
 			body (
